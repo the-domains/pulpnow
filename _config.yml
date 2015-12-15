@@ -1,0 +1,28 @@
+name: pulpnow
+favicon: null
+layout_spectrum: 0.8962079698685557
+typography_spectrum: 0.23391220532357693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.34071929566562176
+  lightness: 0.9230308989062905
+  saturation: 0.42865796270780265
+  rhythmicContrast: 0.9770214520394802
+purpose: []
