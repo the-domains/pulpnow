@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T20:51:32.811Z'
-dateModified: '2015-12-15T20:51:28.064Z'
+datePublished: '2015-12-15T23:07:16.260Z'
+dateModified: '2015-12-15T23:07:01.273Z'
 author:
   - name: mondovcolo
     url: 'https://www.instagram.com/mondovcolo'
@@ -36,4 +36,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![What did/do you want to be when you grow up ? I wanted to be maverick from top gun ✈ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18ab21e5fd501343b6e1d0fe0905bd053a9a5786.jpg)
+![What did/do you want to be when you grow up ? I wanted to be maverick from top gun ✈ ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f7c4a868e954456ce73f7664fa4d2650bab2219.jpg)
