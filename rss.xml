@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PULP Now]]></title>
+        <description><![CDATA[PULP Now]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 20:45:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#Dronestagram: Colorado from above by Photographer Armando Vegas - PULP]]></title>
+            <description><![CDATA[<article><h1>#Dronestagram: Colorado from above by Photographer Armando Vegas - PULP</h1><p>Kara Mason is the news editor and regular contributor to the PULP. She graduated from Colorado State University-Pueblo with a degree in journalism and a minor in political science. She serves as a board member for the Southern Colorado Press Club and the Society of Professional Journalists Colorado Pro Chapter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/217b51a34a059e858a65c627abc501e564c1d650.png"></article>]]></description>
+            <link>http://pueblopulp.com/dronestagram-colorado-pueblo-drone-photographer</link>
+            <guid isPermaLink="false">50667693-d970-4a7d-8e2a-a6bd32ee6a70</guid>
+            <pubDate>Tue, 15 Dec 2015 20:45:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
