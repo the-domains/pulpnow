@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Kara Mason
-    url: 'http://pueblopulp.com/author/karamason'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://pueblopulp.com'
-  name: PULP
-  favicon: null
-  domain: pueblopulp.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://pueblopulp.com/the-economic-promise-of-pueblo-chile-mesa-farming-disanti-milberger'
+inLanguage: en
+starred: false
 keywords:
   - pueblo
   - chile
@@ -21,19 +17,25 @@ keywords:
   - trademark
   - marketing
 description: "Is that chile you're eating really a Pueblo chile? Pueblo County Economic Development Director Chris Markuson wants locals, and eventually consumers across the country, to ask that question as the Pueblo chile grows in popularity. The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile."
-inLanguage: en
+datePublished: '2015-12-15T20:51:43.111Z'
+dateModified: '2015-12-15T20:50:26.323Z'
+author:
+  - name: Kara Mason
+    url: 'http://pueblopulp.com/author/karamason'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://pueblopulp.com/the-economic-promise-of-pueblo-chile-mesa-farming-disanti-milberger'
 title: The economic promise of Pueblo chile - PULP
-datePublished: '2015-12-15T20:48:53.621Z'
-dateModified: '2015-12-15T20:47:38.703Z'
 sourcePath: _posts/2015-12-15-the-economic-promise-of-pueblo-chile-pulp.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: PULP
+  domain: pueblopulp.com
+  url: 'http://pueblopulp.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The economic promise of Pueblo chile - PULP</h1><p>Is that chile you're eating really a Pueblo chile&amp;quest; Pueblo County Economic Development Director Chris Markuson wants locals&amp;comma; and eventually consumers across the country&amp;comma; to ask that question as the Pueblo chile grows in popularity&amp;period; The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile&amp;period;</p><img src="http://i0.wp.com/pueblopulp.com/wp-content/uploads/2015/11/Milberger.jpg?resize=5184%2C3456" /></article>
+<article style=""><h1>The economic promise of Pueblo chile - PULP</h1><p>Is that chile you're eating really a Pueblo chile? Pueblo County Economic Development Director Chris Markuson wants locals, and eventually consumers across the country, to ask that question as the Pueblo chile grows in popularity. The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/118289bbec2af858991969ad3c7fa697f08ec218.jpg" /></article>
