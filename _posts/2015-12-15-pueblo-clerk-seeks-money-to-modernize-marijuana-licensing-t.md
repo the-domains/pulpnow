@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T23:05:14.255Z'
-dateModified: '2015-12-15T23:05:02.252Z'
+datePublished: '2015-12-15T23:08:07.312Z'
+dateModified: '2015-12-15T23:08:03.530Z'
 title: 'Pueblo Clerk seeks money to modernize marijuana licensing, tax collection'
 author: []
+sourcePath: _posts/2015-12-15-pueblo-clerk-seeks-money-to-modernize-marijuana-licensing-t.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-15-pueblo-clerk-seeks-money-to-modernize-marijuana-licensing-t.md
-published: true
 url: pueblo-clerk-seeks-money-to-modernize-marijuana-licensing-t/index.html
 _type: Article
 
 ---
 # Pueblo Clerk seeks money to modernize marijuana licensing, tax collection
 
-Applying for a marijuana or liquor license, or paying cannabis-related business taxes in Pueblo County is like a step back in time -- to 1975\. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6e0da0c-b5fb-47e2-99e2-c017f8f1ee92.jpg)
+Applying for a marijuana or liquor license, or paying cannabis-related business taxes in Pueblo County is like a step back in time -- to 1975\. 
 
 "We are very low tech, at this point," said Pueblo County Clerk and Recorder Gilbert "Bo" Ortiz. "We accept paper applications. We are pretty far behind."
 
