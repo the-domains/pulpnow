@@ -2,6 +2,7 @@ name: pulpnow
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.61171
+title: PULP Now
 cta:
   domain: null
   bucket: null
