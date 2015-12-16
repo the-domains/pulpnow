@@ -36,14 +36,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.economist.com/blogs/graphicdetail/2015/12/professional-trajectories-original-star-wars-cast?fsrc=scn/fb/te/bl/ed/theprofessionaltrajectoriesoftheoriginalstarwarscaststarwarstheircareersawaken'
 title: 'Star Wars: Their careers awaken'
-datePublished: '2015-12-16T07:55:24.335Z'
-dateModified: '2015-12-16T07:55:16.034Z'
+datePublished: '2015-12-16T08:05:17.525Z'
+dateModified: '2015-12-16T08:05:09.769Z'
 sourcePath: _posts/2015-12-16-star-wars-their-careers-awaken.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
