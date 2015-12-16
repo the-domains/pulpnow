@@ -1,28 +1,28 @@
 ---
-description: 'The Best and Worst Places to Grow Up: How Your Area Compares - The New York Times'
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'urn:uuid:7404c0a1-963e-4e20-b502-ab509e354aba'
+inLanguage: null
+starred: false
+keywords: []
+description: 'The Best and Worst Places to Grow Up: How Your Area Compares - The New York Times'
+datePublished: '2015-12-16T00:47:02.248Z'
+dateModified: '2015-12-16T00:46:59.166Z'
 author: []
-datePublished: '2015-12-16T00:44:57.602Z'
+title: ''
+sourcePath: _posts/2015-12-15-the-best-and-worst-places-to-grow-up-how-your-area-compares.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-dateModified: '2015-12-16T00:44:54.484Z'
-title: ''
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-authors: []
-sourcePath: _posts/2015-12-15-the-best-and-worst-places-to-grow-up-how-your-area-compares.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
 The Best and Worst Places to Grow Up: How Your Area Compares - The New York Times
 
-<article style=""><h1>The Best and Worst Places to Grow Up&amp;colon; How Your Area Compares</h1><p>Location matters - enormously&amp;period; If you're poor and live in the New York area&amp;comma; it's better to be in Putnam County than in Manhattan or the Bronx&amp;period; Not only that&amp;comma; the younger you are when you move to Putnam&amp;comma; the better you will do on average&amp;period;</p><img src="http://static01.nyt.com/images/2015/05/03/upshot/how-good-is-your-county-at-income-mobility-1430529153548/how-good-is-your-county-at-income-mobility-1430529153548-facebookJumbo.png" /></article>
+<article style=""><h1>The Best and Worst Places to Grow Up: How Your Area Compares</h1><p>Location matters - enormously. If you're poor and live in the New York area, it's better to be in Putnam County than in Manhattan or the Bronx. Not only that, the younger you are when you move to Putnam, the better you will do on average.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a449201dcd5b16a2a6c909beea37293524d4189e.png" /></article>
