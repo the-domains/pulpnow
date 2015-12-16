@@ -1,6 +1,6 @@
 name: pulpnow
 favicon: null
-layout_spectrum: 0.31913
+layout_spectrum: 0.85351
 typography_spectrum: 0.61171
 title: PULP Now
 collections:
@@ -35,7 +35,7 @@ color:
     - '#d81c55'
     - '#5f3610'
   brandStrength: 0.5
-  lightness: 1
+  lightness: 0.75
   saturation: 0
   rhythmicContrast: 0.75
 purpose: []
