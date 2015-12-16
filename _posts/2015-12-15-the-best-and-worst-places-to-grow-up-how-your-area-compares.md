@@ -2,19 +2,19 @@
 description: 'The Best and Worst Places to Grow Up: How Your Area Compares - The New York Times'
 isBasedOnUrl: 'urn:uuid:7404c0a1-963e-4e20-b502-ab509e354aba'
 author: []
-datePublished: '2015-12-16T00:00:09.916Z'
+datePublished: '2015-12-16T00:44:57.602Z'
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-dateModified: '2015-12-16T00:00:04.915Z'
+dateModified: '2015-12-16T00:44:54.484Z'
 title: ''
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 authors: []
 sourcePath: _posts/2015-12-15-the-best-and-worst-places-to-grow-up-how-your-area-compares.md
