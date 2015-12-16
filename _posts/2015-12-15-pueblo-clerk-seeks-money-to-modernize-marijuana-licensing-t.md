@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://pueblopulp.com/pueblo-clerk-seeks-money-to-modernize-marijuana-licensing-tax-collection'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - pueblo
   - licensing
@@ -17,8 +17,8 @@ keywords:
   - cannabis-related
   - business
 description: 'Applying for a marijuana or liquor license, or paying cannabis-related business taxes in Pueblo County is like a step back in time - to 1975. "We are very low tech, at this point," said Pueblo County Clerk and Recorder Gilbert "Bo" Ortiz. "We accept paper applications. We are pretty far behind."'
-datePublished: '2015-12-15T23:59:43.465Z'
-dateModified: '2015-12-15T23:59:29.505Z'
+datePublished: '2015-12-16T00:22:59.472Z'
+dateModified: '2015-12-16T00:16:04.940Z'
 author:
   - name: Lisa Wheeler
     url: 'http://pueblopulp.com/author/pulp'
@@ -30,10 +30,10 @@ sourcePath: _posts/2015-12-15-pueblo-clerk-seeks-money-to-modernize-marijuana-li
 published: true
 authors: []
 publisher:
+  favicon: null
   name: PULP
   domain: pueblopulp.com
   url: 'http://pueblopulp.com'
-  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
