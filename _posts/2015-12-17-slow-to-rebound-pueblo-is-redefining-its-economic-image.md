@@ -17,8 +17,8 @@ keywords:
   - downtown
   - industry
 description: 'Southern Colorado city looks to diversify industrial base beyond heavy industry to secure a sustainable economic future Cranes score the skylines of Denver, wedging in block-sized apartment complexes and office towers. New retail developments sprawl across the eastern corridor of Colorado Springs, filling out the amenities for a slew of new neighborhoods.'
-datePublished: '2015-12-17T01:07:27.307Z'
-dateModified: '2015-12-17T01:07:21.204Z'
+datePublished: '2015-12-17T01:15:50.227Z'
+dateModified: '2015-12-17T01:15:47.628Z'
 author: []
 related: []
 app_links: []
