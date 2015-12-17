@@ -1,0 +1,41 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://pueblopulp.com/jumpstarting-the-recycling-effort-pueblo'
+inLanguage: en
+starred: false
+keywords:
+  - recycling
+  - pueblo
+  - colorado
+  - parker
+  - trash
+  - city-county
+  - griek
+  - southern
+  - environmental
+  - locals
+description: 'While recycling activism is on an upward trend nationwide, it is proving to be a difficult task to implement recycling services locally and gain community involvement even though the majority of Pueblo residents support the movement.'
+datePublished: '2015-12-17T03:46:27.787Z'
+dateModified: '2015-12-17T03:46:07.153Z'
+author:
+  - name: Ashleigh Hollowell
+    url: 'http://pueblopulp.com/author/admin'
+    avatar: {}
+related: []
+app_links: []
+title: "Jumpstarting Pueblo's recycling effort - PULP"
+sourcePath: _posts/2015-12-17-jumpstarting-pueblos-recycling-effort-pulp.md
+published: true
+authors: []
+publisher:
+  name: PULP
+  domain: pueblopulp.com
+  url: 'http://pueblopulp.com'
+  favicon: null
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+<article style=""><h1>Jumpstarting Pueblo's recycling effort - PULP</h1><p>While recycling activism is on an upward trend nationwide, it is proving to be a difficult task to implement recycling services locally and gain community involvement even though the majority of Pueblo residents support the movement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7059320b3ea1d8ec3bc9dc88913de39a439390bf.jpg" /></article>
