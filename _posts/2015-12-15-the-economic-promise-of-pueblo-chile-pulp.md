@@ -17,8 +17,8 @@ keywords:
   - trademark
   - marketing
 description: "Is that chile you're eating really a Pueblo chile? Pueblo County Economic Development Director Chris Markuson wants locals, and eventually consumers across the country, to ask that question as the Pueblo chile grows in popularity. The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile."
-datePublished: '2015-12-15T23:57:44.413Z'
-dateModified: '2015-12-15T23:57:42.046Z'
+datePublished: '2015-12-17T00:46:02.728Z'
+dateModified: '2015-12-17T00:46:00.221Z'
 author:
   - name: Kara Mason
     url: 'http://pueblopulp.com/author/karamason'
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The economic promise of Pueblo chile - PULP</h1><p>Is that chile you're eating really a Pueblo chile? Pueblo County Economic Development Director Chris Markuson wants locals, and eventually consumers across the country, to ask that question as the Pueblo chile grows in popularity. The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d74103d3e88493b0fab4ab1619b0dd15aad6e0d0.jpg" /></article>
+<article style=""><h1>The economic promise of Pueblo chile - PULP</h1><p>Is that chile you're eating really a Pueblo chile? Pueblo County Economic Development Director Chris Markuson wants locals, and eventually consumers across the country, to ask that question as the Pueblo chile grows in popularity. The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81003be13be6bf010420a7b5c332723f47944661.jpg" /></article>
