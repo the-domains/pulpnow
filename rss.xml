@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 00:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 00:24:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PULP Now.1]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pulpnow/pulp-now1/index.html</link>
             <guid isPermaLink="false">cfb8a68a-4dc0-4afd-b0f3-08ef6cb93fcf</guid>
             <pubDate>Wed, 16 Dec 2015 23:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cache2.asset-cache.net/gc/496447894-the-small-southwestern-town-of-canon-city-is-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=X7WJLa88Cweo9HktRLaNXq3EssF%2f2sDkoNzS4a4HW7DcX5GKc5czBLCrX7VmptBv">]]></description>
+            <link>https://thegrid.ai/pulpnow/657daf0c-9c03-44cd-b839-0409a3b4b2e6/index.html</link>
+            <guid isPermaLink="false">657daf0c-9c03-44cd-b839-0409a3b4b2e6</guid>
+            <pubDate>Thu, 17 Dec 2015 00:23:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Breaking News Story: Canon City High School Sexting Scandel]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_R-sWvxGtR/</link>
             <guid isPermaLink="false">24e5af4c-d485-444c-afc3-d7f6675d90eb</guid>
             <pubDate>Wed, 16 Dec 2015 21:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On covering Pueblo's Brain Drain - PULP]]></title>
-            <description><![CDATA[<article><h1>On covering Pueblo's Brain Drain - PULP</h1><p>I should have had an inkling that the brain drain was bad long before this year. Maybe when I was on the verge of graduating high school in 2011 and didn't even apply to Colorado State University-Pueblo because I was determined - as were most of my friends - to make Pueblo a part of my past (spoiler, I ended up graduating from CSU-Pueblo this past May).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e41ab9ef52d574611d89d9c69060f8b540c4454.jpg"></article>]]></description>
-            <link>http://pueblopulp.com/on-covering-pueblos-brain-drain-economic-development</link>
-            <guid isPermaLink="false">01076888-2b61-499d-bd60-e9bb940cec43</guid>
-            <pubDate>Wed, 16 Dec 2015 08:07:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
