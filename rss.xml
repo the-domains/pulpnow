@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 06:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 07:02:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PULP Now.1]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 16 Dec 2015 23:30:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Photo of the Day]]></title>
+            <description><![CDATA[<article><h1>Photo of the Day</h1><p>Winter wonderland with fresh powder #gnar</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b916619e8aa3465e053fb9ceab54189bf783ca1a.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/_YQ7GBxbUW/</link>
+            <guid isPermaLink="false">7308849c-6ce2-4885-a1f3-ab6544eb4e6f</guid>
+            <pubDate>Thu, 17 Dec 2015 07:02:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Arkansas River Levee Work Expected to Resume in February]]></title>
-            <description><![CDATA[<article><h1>Arkansas River Levee Work Expected to Resume in February</h1><p>The Pueblo Conservancy District is moving forward to find a contractor for the next phase of work to repair the Arkansas River Levee. Contractors will need to remove 12 feet of dirt and concrete from the top of the existing levee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cb4ad43dc9b5ea86d110f2f4c4d8fd3139b4507.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Arkansas River Levee Work Expected to Resume in February</h1><p>The Pueblo Conservancy District is moving forward to find a contractor for the next phase of work to repair the Arkansas River Levee. Contractors will need to remove 12 feet of dirt and concrete from the top of the existing levee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d42d9d879fd8033ef871193a2f901a3837d5c06b.jpg"></article>]]></description>
             <link>http://krcc.org/post/arkansas-river-levee-work-expected-resume-february</link>
             <guid isPermaLink="false">c08fb872-c9b6-44a7-9c15-2ddd6b18c5c1</guid>
             <pubDate>Thu, 17 Dec 2015 06:17:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://pueblopulp.com/the-economic-promise-of-pueblo-chile-mesa-farming-disanti-milberger</link>
             <guid isPermaLink="false">20ac52b3-2c70-482a-a559-e283bab7b3e0</guid>
             <pubDate>Thu, 17 Dec 2015 00:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slow to rebound, Pueblo is redefining its economic image]]></title>
-            <description><![CDATA[<article><h1>Slow to rebound, Pueblo is redefining its economic image</h1><p>Southern Colorado city looks to diversify industrial base beyond heavy industry to secure a sustainable economic future Cranes score the skylines of Denver, wedging in block-sized apartment complexes and office towers. New retail developments sprawl across the eastern corridor of Colorado Springs, filling out the amenities for a slew of new neighborhoods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25662f06a7a196ad4131c19d181c36170f122960.jpg"></article>]]></description>
-            <link>http://www.denverpost.com/business/ci_29207871/slow-rebound-pueblo-is-redefining-its-economic-image</link>
-            <guid isPermaLink="false">86222f19-9a0d-48b7-a526-1b0af538036a</guid>
-            <pubDate>Thu, 17 Dec 2015 01:15:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
