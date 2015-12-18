@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 08:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 08:37:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PULP Now]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pulpnow/pulp-now1/index.html</link>
             <guid isPermaLink="false">cfb8a68a-4dc0-4afd-b0f3-08ef6cb93fcf</guid>
             <pubDate>Fri, 18 Dec 2015 08:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Audiovore | Audiovore is an online platform dedicated to the documentation and promotion of Colorado's music and arts scene through the production of high quality audio and video content.]]></title>
+            <description><![CDATA[<article><h1>Audiovore | Audiovore is an online platform dedicated to the documentation and promotion of Colorado's music and arts scene through the production of high quality audio and video content.</h1><p>Audiovore is an online platform dedicated to the documentation and promotion of Colorado's music and arts scene through the production of high quality audio and video content.</p><img src="http://i.vimeocdn.com/video/474051314_640.jpg"></article>]]></description>
+            <link>http://www.audiovore.us/</link>
+            <guid isPermaLink="false">9b03c04e-85b8-4b9c-b9a7-a307579e1f80</guid>
+            <pubDate>Fri, 18 Dec 2015 08:37:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://pueblopulp.com/a-college-degree-funded-by-pot</link>
             <guid isPermaLink="false">a643d4ae-6a47-4f88-b9e5-c0f91233888d</guid>
             <pubDate>Thu, 17 Dec 2015 01:20:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colorado's Frontrange from Space]]></title>
-            <description><![CDATA[<article><h1>Colorado's Frontrange from Space</h1><p>Have you ever seen Colorado like this?   "The Colorado front range at night - Fort Collins, Denver, Colorado Springs and Pueblo shining bright." From astronaut Kjell N. Lindgren onboard the International Space Station on December 5, 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8453e73982be3337c058743984ca93d3f1d64c80.jpg"></article>]]></description>
-            <link>https://www.facebook.com/pulpnewsmag/photos/a.318895898132970.72668.122474401108455/1027737607248792/?type=3&amp;permPage=1</link>
-            <guid isPermaLink="false">cf9fcc53-039b-4f99-b32e-06a5e0bed1ce</guid>
-            <pubDate>Thu, 17 Dec 2015 00:52:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
