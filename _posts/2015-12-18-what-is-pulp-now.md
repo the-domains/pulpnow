@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: (In Beta)
-datePublished: '2015-12-18T23:11:26.972Z'
-dateModified: '2015-12-18T23:11:24.888Z'
+datePublished: '2015-12-18T23:13:16.594Z'
+dateModified: '2015-12-18T23:13:13.647Z'
 title: What is PULP Now?
 author: []
 sourcePath: _posts/2015-12-18-what-is-pulp-now.md
@@ -27,6 +27,4 @@ _type: Article
 # What is PULP Now?
 
 News sites are boring and filled with ads that ruin the experience of seeing what's happening right now. 
-PULP Now (beta) is a project by PULP
-
-Newsmag to bring news in a gorgeous, easy to read way, collected from all sources.
+PULP Now (beta) is a project by PULP Newsmag to bring news in a gorgeous, easy to read way, collected from all sources.
