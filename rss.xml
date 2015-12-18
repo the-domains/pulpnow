@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 23:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 23:36:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PULP Now]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pulpnow/pulp-now1/index.html</link>
             <guid isPermaLink="false">cfb8a68a-4dc0-4afd-b0f3-08ef6cb93fcf</guid>
             <pubDate>Fri, 18 Dec 2015 08:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="A new option for paying off student loans&comma; but is it that big of a deal&quest; http&colon;&sol;&sol;ow&period;ly&sol;W5Pv8" src="https://pbs.twimg.com/media/CWipV3qUAAAbUsA.png:large">]]></description>
+            <link>https://twitter.com/newscpr/status/677977937359060993</link>
+            <guid isPermaLink="false">1d98e384-102c-407c-88a1-9398b3dc9349</guid>
+            <pubDate>Fri, 18 Dec 2015 23:35:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/_YQ7GBxbUW/</link>
             <guid isPermaLink="false">7308849c-6ce2-4885-a1f3-ab6544eb4e6f</guid>
             <pubDate>Thu, 17 Dec 2015 07:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arkansas River Levee Work Expected to Resume in February]]></title>
-            <description><![CDATA[<article><h1>Arkansas River Levee Work Expected to Resume in February</h1><p>The Pueblo Conservancy District is moving forward to find a contractor for the next phase of work to repair the Arkansas River Levee. Contractors will need to remove 12 feet of dirt and concrete from the top of the existing levee.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d42d9d879fd8033ef871193a2f901a3837d5c06b.jpg"></article>]]></description>
-            <link>http://krcc.org/post/arkansas-river-levee-work-expected-resume-february</link>
-            <guid isPermaLink="false">c08fb872-c9b6-44a7-9c15-2ddd6b18c5c1</guid>
-            <pubDate>Thu, 17 Dec 2015 06:17:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
