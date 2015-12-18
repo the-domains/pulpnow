@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: (In Beta)
-datePublished: '2015-12-18T23:13:16.594Z'
-dateModified: '2015-12-18T23:13:13.647Z'
+datePublished: '2015-12-18T23:14:43.853Z'
+dateModified: '2015-12-18T23:14:41.191Z'
 title: What is PULP Now?
 author: []
 sourcePath: _posts/2015-12-18-what-is-pulp-now.md
