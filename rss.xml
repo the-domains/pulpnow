@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 08:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 08:34:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PULP Now]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pulpnow/pulp-now1/index.html</link>
             <guid isPermaLink="false">cfb8a68a-4dc0-4afd-b0f3-08ef6cb93fcf</guid>
             <pubDate>Fri, 18 Dec 2015 08:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://mediad.publicbroadcasting.net/p/kunc/files/styles/medium/public/201512/colo_dola-age-animate2.gif">]]></description>
+            <link>http://www.kunc.org/post/colorados-aging-boomers-arent-silver-tsunami-theyre-coming-normal</link>
+            <guid isPermaLink="false">3601639b-ecd0-4366-9ab1-4fa85ddcb4a3</guid>
+            <pubDate>Fri, 18 Dec 2015 08:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colorado's coming population surge.]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/pulpnewsmag/photos/a.318895898132970.72668.122474401108455/1027737607248792/?type=3&amp;permPage=1</link>
             <guid isPermaLink="false">cf9fcc53-039b-4f99-b32e-06a5e0bed1ce</guid>
             <pubDate>Thu, 17 Dec 2015 00:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The economic promise of Pueblo chile - PULP]]></title>
-            <description><![CDATA[<article><h1>The economic promise of Pueblo chile - PULP</h1><p>Is that chile you're eating really a Pueblo chile? Pueblo County Economic Development Director Chris Markuson wants locals, and eventually consumers across the country, to ask that question as the Pueblo chile grows in popularity. The question will hopefully be the result to a three-year strategic plan to build the brand around the Pueblo chile.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7390e17ddcccbf88a6633819d63b1a585b32731.jpg"></article>]]></description>
-            <link>http://pueblopulp.com/the-economic-promise-of-pueblo-chile-mesa-farming-disanti-milberger</link>
-            <guid isPermaLink="false">20ac52b3-2c70-482a-a559-e283bab7b3e0</guid>
-            <pubDate>Thu, 17 Dec 2015 00:46:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
