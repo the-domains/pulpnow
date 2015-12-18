@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: (In Beta)
-datePublished: '2015-12-18T23:05:18.026Z'
-dateModified: '2015-12-18T23:04:41.817Z'
+datePublished: '2015-12-18T23:11:26.972Z'
+dateModified: '2015-12-18T23:11:24.888Z'
 title: What is PULP Now?
 author: []
 sourcePath: _posts/2015-12-18-what-is-pulp-now.md
@@ -22,7 +22,7 @@ url: what-is-pulp-now/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbcfba49-5d09-4931-b0c5-bd3267155bf6.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f83058c5fd75afcc3156dbc7860bd19de0c642b.png)
 
 # What is PULP Now?
 
