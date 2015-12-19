@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 23:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 00:02:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[PULP Now]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pulpnow/pulp-now1/index.html</link>
             <guid isPermaLink="false">cfb8a68a-4dc0-4afd-b0f3-08ef6cb93fcf</guid>
             <pubDate>Fri, 18 Dec 2015 08:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obama: 'In 2016, I'm going to leave it all out on the field']]></title>
+            <description><![CDATA[<article><h1>Obama: 'In 2016, I'm going to leave it all out on the field'</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0c1a2aad97611811fd419ac3a6d770845456d2b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pulpnow/obama-and39in-2016-iand39m-going-to-leave-it-all-out-on-th/index.html</link>
+            <guid isPermaLink="false">12686402-3214-4760-ac4b-fe1406bb7d74</guid>
+            <pubDate>Sat, 19 Dec 2015 00:02:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.kunc.org/post/colorados-aging-boomers-arent-silver-tsunami-theyre-coming-normal</link>
             <guid isPermaLink="false">1035cb62-c906-440a-8113-487bee749eae</guid>
             <pubDate>Fri, 18 Dec 2015 08:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photo of the Day]]></title>
-            <description><![CDATA[<article><h1>Photo of the Day</h1><p>Winter wonderland with fresh powder #gnar</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f6fa311fa00224830669081d01187778f6b6c32.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_YQ7GBxbUW/</link>
-            <guid isPermaLink="false">7308849c-6ce2-4885-a1f3-ab6544eb4e6f</guid>
-            <pubDate>Thu, 17 Dec 2015 07:02:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
