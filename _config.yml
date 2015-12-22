@@ -2,7 +2,7 @@ name: pulpnow
 favicon: null
 layout_spectrum: 0.43396
 typography_spectrum: 0.61171
-title: PULP Now
+title: PULP Now - A Digital Daily for Colorado
 collections:
   - index:
       path: /
