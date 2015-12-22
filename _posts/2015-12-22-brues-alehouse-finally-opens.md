@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The old refurbished Pueblo Police Station now brewpub has finally opened.
-datePublished: '2015-12-22T08:11:02.209Z'
-dateModified: '2015-12-22T08:09:43.347Z'
+datePublished: '2015-12-22T09:01:50.063Z'
+dateModified: '2015-12-22T09:01:47.448Z'
 author:
   - name: bruesalehouse
     url: 'https://www.instagram.com/bruesalehouse'
@@ -24,16 +24,16 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: Brues Alehouse Finally Opens
+sourcePath: _posts/2015-12-22-brues-alehouse-finally-opens.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/4206917/images/ico/favicon.ico'
-sourcePath: _posts/2015-12-22-brues-alehouse-finally-opens.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![The old refurbished Pueblo Police Station now brewpub has finally opened.](https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s640x640/sh0.08/e35/12346025_1490234054617341_471344415_n.jpg)
+![The old refurbished Pueblo Police Station now brewpub has finally opened.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9842388607805a3350e1dbf2d312922caf209099.jpg)
