@@ -1,41 +1,41 @@
-name: pulpnow
-favicon: null
-layout_spectrum: 0.12886
-typography_spectrum: 0.61171
 title: PULP Now - The Web Freshly Squeezed
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.3125
+  brandStrength: 0.1875
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#ffffff'
+    - '#ff8700'
+    - '#ffbe00'
+    - '#ffe268'
+    - '#f60000'
+  lightness: 0.6875
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-56385421-1
   facebook: null
-  twitter: null
+name: pulpnow
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffaa00'
-    - '#ff00aa'
-    - '#aa00ff'
-    - '#aaff00'
-    - '#00aaff'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.61171
+layout_spectrum: 0.3853047
