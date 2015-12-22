@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PULP Now]]></title>
-        <description><![CDATA[PULP Now]]></description>
+        <title><![CDATA[PULP Now - A Digital Daily for Colorado]]></title>
+        <description><![CDATA[PULP Now - A Digital Daily for Colorado]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 03:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 03:57:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Coloradans Will Put Single-Payer Health Care To A Vote]]></title>
+            <description><![CDATA[<article><h1>Coloradans Will Put Single-Payer Health Care To A Vote</h1><p>On a brisk morning in Denver recently, an ambulance pulled up in front of a downtown office tower. "I think the patient is going to make it," Dr. Irene Aguilar said as a team rolled out the gurney. This wasn't a medical emergency, but rather a bit of political theater.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8eaf8826fccd93d400773097ab44786510a00f5.jpg"></article>]]></description>
+            <link>http://www.npr.org/sections/health-shots/2015/12/19/458688605/coloradans-will-put-single-payer-health-care-to-a-vote</link>
+            <guid isPermaLink="false">388c5634-2f28-4b74-abb0-34e6d00b6223</guid>
+            <pubDate>Tue, 22 Dec 2015 03:56:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[You Must See This Stunning New Photo of Colorado, From Earth's Orbit]]></title>
-            <description><![CDATA[<article><h1>You Must See This Stunning New Photo of Colorado, From Earth's Orbit</h1><p>Denver and the Colorado Rockies, as you've never seen them before Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now > On September 10, 2015, a satellite named WorldView-3 was whisking on its regular path from pole to pole, locked in orbit 400 miles above the eastern Pacific Ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43d7803ada5bc54c76776f95aba5a3a8fb95c217.png"></article>]]></description>
+            <description><![CDATA[<article><h1>You Must See This Stunning New Photo of Colorado, From Earth's Orbit</h1><p>Denver and the Colorado Rockies, as you've never seen them before Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now > On September 10, 2015, a satellite named WorldView-3 was whisking on its regular path from pole to pole, locked in orbit 400 miles above the eastern Pacific Ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1fce0c2e7dea32a296bf464644530216aeeaf5e.png"></article>]]></description>
             <link>http://www.theatlantic.com/technology/archive/2015/12/a-new-kind-of-landscape-photography/421287/</link>
             <guid isPermaLink="false">78240fb8-2350-433b-a4f7-28daf081697b</guid>
             <pubDate>Mon, 21 Dec 2015 22:04:26 GMT</pubDate>
