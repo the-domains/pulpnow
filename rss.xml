@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now - The Web Freshly Squeezed]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 09:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 18:33:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Web Freshly Squeezed.]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 22 Dec 2015 08:41:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A letter from our Brewmaster & Director of Operations, J. Todd Usry. For a text version visit...</p>]]></description>
+            <link>https://www.facebook.com/BreckenridgeBrewery/photos/a.207324980301.263310.122762945301/10156378240830302/?type=3&amp;theater</link>
+            <guid isPermaLink="false">6f0a2033-d752-4675-b2fa-b6be49735408</guid>
+            <pubDate>Tue, 22 Dec 2015 18:33:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SpaceX makes first successful vertical landing potentially revolutionizing space travel.]]></title>
-            <description><![CDATA[<article><h1>SpaceX makes first successful vertical landing potentially revolutionizing space travel.</h1><p>Congratulations @SpaceX on your successful vertical landing of the first stage back on Earth! https://twitter.com/SpaceX/status/679114269485436928 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f0029e07bb49e07381b757d7126c229e88371e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>SpaceX makes first successful vertical landing potentially revolutionizing space travel.</h1><p>Congratulations @SpaceX on your successful vertical landing of the first stage back on Earth! https://twitter.com/SpaceX/status/679114269485436928 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da5ab4c1d14d6560f3289833d1226fc7a3194e7.png"></article>]]></description>
             <link>https://twitter.com/NASA/status/679115718072393729?ref_src=twsrc%5Etfw</link>
             <guid isPermaLink="false">c8fc0a46-0132-4a76-9c92-239e1a6b391b</guid>
             <pubDate>Tue, 22 Dec 2015 09:09:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://ilovelajunta.com/koshares-cancel-winter-night-dances/</link>
             <guid isPermaLink="false">8d64d736-ea6f-4812-9ce9-990cab278fc3</guid>
             <pubDate>Sun, 20 Dec 2015 08:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lantern workshop tonight! These will be available along side the freshest art in the city tomorrow. Saturday we'll be open all day for your shopping convenience. 12-10p #naughtylist]]></title>
-            <description><![CDATA[<article><h1>Lantern workshop tonight! These will be available along side the freshest art in the city tomorrow. Saturday we'll be open all day for your shopping convenience. 12-10p #naughtylist</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ff7b268d95d652322df02a4e9a6f6287cfb7bf1.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/_cc8d5Md2V/</link>
-            <guid isPermaLink="false">37787ab0-e005-4fb1-ad01-78c5c1183ea9</guid>
-            <pubDate>Fri, 18 Dec 2015 20:55:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
