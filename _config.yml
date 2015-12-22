@@ -1,6 +1,6 @@
 name: pulpnow
 favicon: null
-layout_spectrum: 0.802
+layout_spectrum: 0.44781
 typography_spectrum: 0.61171
 title: PULP Now - The Web Freshly Squeezed
 collections:
@@ -35,7 +35,7 @@ color:
     - '#aaff00'
     - '#00aaff'
   brandStrength: 0.3125
-  lightness: 0.6875
+  lightness: 0.5
   saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
