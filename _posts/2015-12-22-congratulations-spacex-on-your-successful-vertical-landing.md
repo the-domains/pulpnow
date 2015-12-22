@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/NASA/status/679115718072393729?ref_src=twsrc%5Etfw'
+inLanguage: en
+starred: false
+keywords:
+  - spacex
+  - tweet
+  - location
+  - twitter
+  - https
+  - copying
+  - vertical
+  - congratulations
+  - learn
+  - zw3lr8fpti
+description: 'Congratulations @SpaceX on your successful vertical landing of the first stage back on Earth! https://twitter.com/SpaceX/status/679114269485436928 ...'
+datePublished: '2015-12-22T09:09:12.442Z'
+dateModified: '2015-12-22T09:09:04.385Z'
 author:
   - name: nasa
     url: 'http://twitter.com/nasa'
@@ -14,34 +34,16 @@ author:
           - 250
           - 253
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - spacex
-  - tweet
-  - location
-  - twitter
-  - https
-  - copying
-  - vertical
-  - congratulations
-  - learn
-  - zw3lr8fpti
-description: 'Congratulations @SpaceX on your successful vertical landing of the first stage back on Earth! https://twitter.com/SpaceX/status/679114269485436928 ...'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/NASA/status/679115718072393729?ref_src=twsrc%5Etfw'
-datePublished: '2015-12-22T09:05:50.407Z'
-dateModified: '2015-12-22T09:05:07.096Z'
-title: ''
+title: SpaceX makes first successful vertical landing potentially revolutionizing space travel.
 sourcePath: _posts/2015-12-22-congratulations-spacex-on-your-successful-vertical-landing.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
