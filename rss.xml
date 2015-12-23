@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now - The Web Freshly Squeezed]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 07:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 19:42:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Web Freshly Squeezed.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pulpnow/the-web-freshly-squeezed/index.html</link>
             <guid isPermaLink="false">c9bb89b4-f556-4dc9-8d0c-7c788b1b8be4</guid>
             <pubDate>Tue, 22 Dec 2015 08:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter Park Ski Train Unlikely To Return This Season, Says Resort]]></title>
+            <description><![CDATA[<article><h1>Winter Park Ski Train Unlikely To Return This Season, Says Resort</h1><p>Skiers hoping to take a resurrected Ski Train from Denver to Winter Park Resort will likely have to wait until next year. The resort says negotiations with Amtrak, Union Pacific and the Federal Railroad Administration are still underway. But ski season is in full swing and time is running out.</p><img src="http://www.cpr.org/sites/default/files/styles/full-width/public/images/vintageskitrain2.jpg?itok=d1ecT87J"></article>]]></description>
+            <link>http://www.cpr.org/news/newsbeat/winter-park-ski-train-unlikely-return-season-says-resort</link>
+            <guid isPermaLink="false">1f85b7bd-cd80-4b40-a172-92ad08c897f0</guid>
+            <pubDate>Wed, 23 Dec 2015 19:41:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Peyton Manning high and a football field wide mess avalanche blocks Monarch Pass. ]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.npr.org/sections/health-shots/2015/12/19/458688605/coloradans-will-put-single-payer-health-care-to-a-vote</link>
             <guid isPermaLink="false">388c5634-2f28-4b74-abb0-34e6d00b6223</guid>
             <pubDate>Tue, 22 Dec 2015 03:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Must See This Stunning New Photo of Colorado, From Earth's Orbit]]></title>
-            <description><![CDATA[<article><h1>You Must See This Stunning New Photo of Colorado, From Earth's Orbit</h1><p>Denver and the Colorado Rockies, as you've never seen them before Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now > On September 10, 2015, a satellite named WorldView-3 was whisking on its regular path from pole to pole, locked in orbit 400 miles above the eastern Pacific Ocean.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a6d62f2e06673e4b38748b30f8858035d91f46d.png"></article>]]></description>
-            <link>http://www.theatlantic.com/technology/archive/2015/12/a-new-kind-of-landscape-photography/421287/</link>
-            <guid isPermaLink="false">78240fb8-2350-433b-a4f7-28daf081697b</guid>
-            <pubDate>Tue, 22 Dec 2015 07:29:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
