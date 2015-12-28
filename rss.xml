@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now - The Web Freshly Squeezed]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 08:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 05:27:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Web Freshly Squeezed.]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 22 Dec 2015 08:41:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Public asked help track Colorado wildlife - Aurora Sentinel]]></title>
+            <description><![CDATA[<article><h1>Public asked help track Colorado wildlife - Aurora Sentinel</h1><p>Wildlife officials say if someone spots a rare or protected species, like the imperiled lynx that was reintroduced into the Colorado wilderness, the finding is reported but the details are obscured on the Internet to protect the animals and allow wildlife specialists to check it out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/899639512fc1be74cc5d02abacd80ef522cdda6c.jpg"></article>]]></description>
+            <link>http://www.aurorasentinel.com/guide/public-asked-help-track-colorado-wildlife/</link>
+            <guid isPermaLink="false">d812cbdd-67bb-43d3-8098-4032102ef072</guid>
+            <pubDate>Mon, 28 Dec 2015 05:26:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No comment from the league. Ian Rapoport on Twitter]]></title>
-            <description><![CDATA[<article><h1>No comment from the league. Ian Rapoport on Twitter</h1><p>No comment from the league. https://twitter.com/huffingtonpost/status/680933201343307776 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e3c6a539ea11cf28659b98ba5b1db4ed3994bf.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>No comment from the league. Ian Rapoport on Twitter</h1><p>No comment from the league. https://twitter.com/huffingtonpost/status/680933201343307776 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07a1931bbf7d415ba3fd295f19cb5a3533b2690.jpg"></article>]]></description>
             <link>https://twitter.com/rapsheet/status/680950210344972292</link>
             <guid isPermaLink="false">6b6e7f83-0f1e-4f4f-9648-c77866d99453</guid>
             <pubDate>Sun, 27 Dec 2015 08:34:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.cpr.org/news/story/anheuser-busch-buy-breckenridge-brewery</link>
             <guid isPermaLink="false">9eff565b-19a7-462c-978e-122d14789a72</guid>
             <pubDate>Tue, 22 Dec 2015 18:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX makes first successful vertical landing potentially revolutionizing space travel.]]></title>
-            <description><![CDATA[<article><h1>SpaceX makes first successful vertical landing potentially revolutionizing space travel.</h1><p>Congratulations @SpaceX on your successful vertical landing of the first stage back on Earth! https://twitter.com/SpaceX/status/679114269485436928 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da5ab4c1d14d6560f3289833d1226fc7a3194e7.png"></article>]]></description>
-            <link>https://twitter.com/NASA/status/679115718072393729?ref_src=twsrc%5Etfw</link>
-            <guid isPermaLink="false">c8fc0a46-0132-4a76-9c92-239e1a6b391b</guid>
-            <pubDate>Tue, 22 Dec 2015 09:09:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
