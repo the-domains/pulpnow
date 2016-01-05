@@ -4,7 +4,7 @@
         <description><![CDATA[PULP Now - The Web Freshly Squeezed]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 22:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 22:05:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Web Freshly Squeezed.]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/pulpnow/the-web-freshly-squeezed/index.html</link>
             <guid isPermaLink="false">c9bb89b4-f556-4dc9-8d0c-7c788b1b8be4</guid>
             <pubDate>Mon, 28 Dec 2015 19:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>President Obama gets emotional while unveiling new gun control measures http://cnn.it/1IOwRlc http://cnn.it/1OxrkzV</p>]]></description>
-            <link>https://twitter.com/CNN/status/684422962187993089</link>
-            <guid isPermaLink="false">0643edd0-7ead-4124-aebe-803b8cc3e2d6</guid>
-            <pubDate>Tue, 05 Jan 2016 22:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>No comment from the league. Ian Rapoport on Twitter</h1><p>No comment from the league. https://twitter.com/huffingtonpost/status/680933201343307776 ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07a1931bbf7d415ba3fd295f19cb5a3533b2690.jpg"></article>]]></description>
             <link>https://twitter.com/rapsheet/status/680950210344972292</link>
             <guid isPermaLink="false">6b6e7f83-0f1e-4f4f-9648-c77866d99453</guid>
+            <pubDate>Sun, 27 Dec 2015 08:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Manning issues denial: "The allegation that I would do something like that is complete garbage and is totally made up making stuff up (cont)</p>]]></description>
+            <link>https://twitter.com/troyrenck/status/680958766767013888</link>
+            <guid isPermaLink="false">90e12916-0e96-4e33-b366-677b72509d75</guid>
             <pubDate>Sun, 27 Dec 2015 08:34:15 GMT</pubDate>
         </item>
     </channel>
