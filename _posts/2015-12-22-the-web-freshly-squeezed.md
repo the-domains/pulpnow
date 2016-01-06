@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'The Web Freshly Squeezed. Now with 100% more PULP'
-datePublished: '2015-12-28T19:17:50.255Z'
-dateModified: '2015-12-28T19:17:36.488Z'
+datePublished: '2016-01-06T01:18:22.299Z'
+dateModified: '2016-01-06T01:18:15.806Z'
 title: The Web Freshly Squeezed.
 author: []
 sourcePath: _posts/2015-12-22-the-web-freshly-squeezed.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-web-freshly-squeezed/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The Web Freshly Squeezed.
