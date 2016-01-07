@@ -5,23 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://pueblopulp.com'
   name: PULP
-  favicon: null
   domain: pueblopulp.com
+  url: 'http://pueblopulp.com'
+  favicon: null
 keywords: []
 description: "In Pueblo, 'RTA' - the Regional Tourism Act, which aims to fund unique projects around Colorado that will draw a significant number of out-of-state visitors - has become synonymous with the Pueblo Convention Center expansion because of the number of tourists it is expected to draw in."
 inLanguage: fr
 app_links: []
 isBasedOnUrl: 'http://pueblopulp.com/rta-unique-enough-to-compete-rta-regional-tourism-act-pueblo-convention-center'
 title: 'RTA: Unique enough to compete? - PULP'
-datePublished: '2016-01-07T21:13:58.119Z'
-dateModified: '2016-01-07T18:50:53.885Z'
+datePublished: '2016-01-07T21:14:30.761Z'
+dateModified: '2016-01-07T21:14:25.236Z'
 sourcePath: _posts/2016-01-07-rta-unique-enough-to-compete-pulp.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
