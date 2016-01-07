@@ -15,14 +15,14 @@ inLanguage: fr
 app_links: []
 isBasedOnUrl: 'http://pueblopulp.com/rta-unique-enough-to-compete-rta-regional-tourism-act-pueblo-convention-center'
 title: 'RTA: Unique enough to compete? - PULP'
-datePublished: '2016-01-07T21:14:30.761Z'
-dateModified: '2016-01-07T21:14:25.236Z'
+datePublished: '2016-01-07T21:22:28.876Z'
+dateModified: '2016-01-07T21:22:24.088Z'
 sourcePath: _posts/2016-01-07-rta-unique-enough-to-compete-pulp.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
