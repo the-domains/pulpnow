@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'We are going to follow this story with links, updates and short news.'
-datePublished: '2016-01-05T22:09:44.375Z'
-dateModified: '2016-01-05T22:09:38.442Z'
+datePublished: '2016-01-07T21:14:42.180Z'
+dateModified: '2016-01-07T21:14:22.515Z'
 title: 'Big story of the day: President Obama to take executive action on gun violence.'
 author: []
 sourcePath: _posts/2016-01-05-big-story-of-the-day-president-obama-to-take-executive-acti.md
