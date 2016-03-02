@@ -4,11 +4,18 @@
         <description><![CDATA[PULP Now - The Web Freshly Squeezed]]></description>
         <link>https://thegrid.ai/pulpnow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 02:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 06:38:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pulpnow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[#supertuesday in Colorado]]></title>
+            <description><![CDATA[<h1>#supertuesday in Colorado</h1>]]></description>
+            <link>https://thegrid.ai/pulpnow/supertuesday-in-colorado/index.html</link>
+            <guid isPermaLink="false">5c51552d-f1ff-4045-bac4-fe3beef1bdb8</guid>
+            <pubDate>Wed, 02 Mar 2016 06:38:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In an Improving Economy, Places in Distress]]></title>
-            <description><![CDATA[<article><h1>In an Improving Economy, Places in Distress</h1><p>The Counties and Cities A new report by the Economic Innovation Group, based on an analysis of Census Bureau data, found that a number of cities in the old industrial heartland are still among the worst even as surrounding areas have improved markedly.</p><img src="http://static01.nyt.com/images/2016/02/24/business/distress-cities-counties-1456358471839/distress-cities-counties-1456358471839-facebookJumbo.png"></article>]]></description>
+            <description><![CDATA[<article><h1>In an Improving Economy, Places in Distress</h1><p>The Counties and Cities A new report by the Economic Innovation Group, based on an analysis of Census Bureau data, found that a number of cities in the old industrial heartland are still among the worst even as surrounding areas have improved markedly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b55785c332c7bdb108ee49f4666eec68ea92a31.png"></article>]]></description>
             <link>http://www.nytimes.com/interactive/2016/02/24/business/distress-cities-counties.html?_r=0</link>
             <guid isPermaLink="false">aa84862b-2e7f-4fc7-8ae5-6aecfddf3cc1</guid>
             <pubDate>Fri, 26 Feb 2016 02:12:13 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>President Obama gets emotional while unveiling new gun control measures http://cnn.it/1IOwRlc http://cnn.it/1OxrkzV</p>]]></description>
             <link>https://twitter.com/CNN/status/684422962187993089</link>
             <guid isPermaLink="false">0643edd0-7ead-4124-aebe-803b8cc3e2d6</guid>
-            <pubDate>Tue, 05 Jan 2016 22:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Former Pueblo State Senator Giron said Pres. Obama's measures are "simple and responsible" gun safety. http://thepulp.me/1Jsc6vz</p>]]></description>
-            <link>https://twitter.com/pulpnewsmag/status/684492802403741698</link>
-            <guid isPermaLink="false">88386635-6d66-4bff-8296-333a56a3a81b</guid>
             <pubDate>Tue, 05 Jan 2016 22:04:37 GMT</pubDate>
         </item>
     </channel>
