@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T07:09:01.466Z'
-dateModified: '2016-03-02T07:08:26.882Z'
+datePublished: '2016-03-02T07:11:10.446Z'
+dateModified: '2016-03-02T07:11:04.124Z'
 author: []
 title: '#supertuesday in Colorado,  Bernie wins'
+sourcePath: _posts/2016-03-02-supertuesday-in-colorado-bernie-wins.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-supertuesday-in-colorado-bernie-wins.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
