@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T06:40:57.790Z'
-dateModified: '2016-03-02T06:40:44.590Z'
+datePublished: '2016-03-02T06:53:58.499Z'
+dateModified: '2016-03-02T06:53:50.099Z'
 title: '#supertuesday in Colorado'
 author: []
 sourcePath: _posts/2016-03-02-supertuesday-in-colorado.md
