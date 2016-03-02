@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:0aad77ae-0deb-4569-acbc-1ef9ac01e4dc'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T07:11:10.446Z'
-dateModified: '2016-03-02T07:11:04.124Z'
+datePublished: '2016-03-02T07:13:24.136Z'
+dateModified: '2016-03-02T07:12:43.077Z'
 author: []
 title: '#supertuesday in Colorado,  Bernie wins'
 sourcePath: _posts/2016-03-02-supertuesday-in-colorado-bernie-wins.md
