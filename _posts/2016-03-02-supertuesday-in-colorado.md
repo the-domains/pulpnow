@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T06:39:29.800Z'
-dateModified: '2016-03-02T06:38:56.560Z'
+datePublished: '2016-03-02T06:40:57.790Z'
+dateModified: '2016-03-02T06:40:44.590Z'
 title: '#supertuesday in Colorado'
 author: []
+sourcePath: _posts/2016-03-02-supertuesday-in-colorado.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-supertuesday-in-colorado.md
-published: true
-url: supertuesday-in-colorado/index.html
-_type: Article
+_type: Blurb
 
 ---
 # \#supertuesday in Colorado
