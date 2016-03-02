@@ -2,30 +2,30 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'urn:uuid:0aad77ae-0deb-4569-acbc-1ef9ac01e4dc'
+isBasedOnUrl: 'urn:uuid:d1d695e3-b6e4-4a4e-8430-5607d0c38f3f'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T07:13:24.136Z'
-dateModified: '2016-03-02T07:12:43.077Z'
+datePublished: '2016-03-02T07:19:25.814Z'
+dateModified: '2016-03-02T07:18:49.272Z'
 author: []
-title: '#supertuesday in Colorado,  Bernie wins'
-sourcePath: _posts/2016-03-02-supertuesday-in-colorado-bernie-wins.md
-published: true
+title: '#supertuesday in Colorado, Bernie wins'
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
+sourcePath: _posts/2016-03-02-supertuesday-in-colorado-bernie-wins.md
+published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # \#supertuesday in Colorado, Bernie wins
-![](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12747776_575155282650338_310835938_n.jpg?ig_cache_key=MTE5Njg4MzkxMzA4ODM3MTc0MA%3D%3D.2)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ba791a83e204d382a2efb76d89fcc9abe8b28ab.jpg)
 
-On Tuesday night, Senator Bernie Sanders handily beat out Secretary Hillary Clinton in Colorado. Sanders won by 18% of the vote, soundly winning 58% to Clinton's 40%. 
+On Tuesday night, Senator Bernie Sanders handily beatout Secretary HillaryClinton inColorado.Sanders wonby 18% of the vote, soundly winning 58%to Clinton's 40%.
 
-But looking at his win, for Colorado's 79 delegates, Sanders won nearly all the counties west of I-25\. And Clinton won her share east of I-25\.
+But looking at his win, for Colorado's 79 delegates, Sanders won nearly all the counties west of I-25\. AndClinton won her share east of I-25\.
