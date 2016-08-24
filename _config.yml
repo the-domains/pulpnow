@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3125
   brandStrength: 0.1875
@@ -23,19 +23,19 @@ color:
     - '#ffe268'
     - '#f60000'
   lightness: 0.6875
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: UA-56385421-1
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: PULP Now
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.61171
-layout_spectrum: 1
+layout_spectrum: 0.1003584
